@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace FormEvents
+namespace WF_Events_FormEvents
 {
 	public partial class frmMain : Form
   {

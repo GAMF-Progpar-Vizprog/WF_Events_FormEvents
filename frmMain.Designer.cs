@@ -1,4 +1,4 @@
-﻿namespace FormEvents
+﻿namespace WF_Events_FormEvents
 {
   partial class frmMain
   {
